@@ -1,0 +1,40 @@
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.exe
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.deps.json
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.runtimeconfig.json
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.runtimeconfig.dev.json
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.pdb
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.AssemblyInfoInputs.cache
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.AssemblyInfo.cs
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.csproj.CoreCompileInputs.cache
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.csproj.CopyComplete
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.dll
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.pdb
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.genruntimeconfig.cache
+D:\Vincent\IT Div\TakeHomeITDIV\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.csprojAssemblyReference.cache
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.exe
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.deps.json
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.runtimeconfig.json
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.runtimeconfig.dev.json
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.pdb
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.csprojAssemblyReference.cache
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.AssemblyInfoInputs.cache
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.AssemblyInfo.cs
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.csproj.CoreCompileInputs.cache
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.csproj.CopyComplete
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.dll
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.pdb
+D:\Vincent\IT Div\TakeHomeITDIV\C#_VINCENT HADINATA_2301850430\CSharp_VincentHadinata_2301850430\obj\Debug\netcoreapp3.1\CSharp_VincentHadinata_2301850430.genruntimeconfig.cache
